@@ -1,0 +1,26 @@
+file=C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Lab9\500083_ACW_Template\ACW_WordSearch\Main.cpp
+compiler=vc_14_2-64
+working_dir=C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Lab9\500083_ACW_Template\ACW_WordSearch
+arg=cl.exe
+arg=-IC:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.5\engine\runtime\include
+arg=/ZI
+arg=/Od
+arg=/EHsc
+arg=/RTC1
+arg=/MDd
+arg=/Gd
+arg=/GS
+arg=/Gm-
+arg=/D_MBCS
+arg=/Zc:wchar_t
+arg=/Zc:forScope
+arg=/Zc:inline
+arg=/nologo
+arg=/FC
+arg=/diagnostics:column
+arg=-DPARASOFT_CPPTEST
+arg=-I.
+arg=C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Lab9\500083_ACW_Template\ACW_WordSearch\Main.cpp
+env=Path=C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\mingw-w64\mingw64\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\objec\AppData\Local\Microsoft\WindowsApps;C:\Users\objec\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\objec\.dotnet\tools;C:\Users\objec\AppData\Local\Box\Box Edit\;;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\mingw-w64\mingw64\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\objec\AppData\Local\Microsoft\WindowsApps;C:\Users\objec\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\objec\.dotnet\tools;C:\Users\objec\AppData\Local\Box\Box Edit\;C:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.5\plugins\com.parasoft.xtest.libs.vstudio.cpp\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.application.vstudio.core\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.coverage.vstudio.ui\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.flowanalysis.vstudio.ui\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.libs.vstudio\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.results.vstudio.ui\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.runtime.vstudio.core;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.runtime.vstudio.core
+env=INCLUDE=C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+env=LIB=C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64;

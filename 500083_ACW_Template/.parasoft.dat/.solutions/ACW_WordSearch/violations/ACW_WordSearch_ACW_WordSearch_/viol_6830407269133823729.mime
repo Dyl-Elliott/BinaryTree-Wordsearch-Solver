@@ -1,0 +1,11 @@
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=AcJ6Mm3GAXQslsn5hfpdnd6dCWfTYyx
+StorageVersion: v1
+
+--AcJ6Mm3GAXQslsn5hfpdnd6dCWfTYyx
+
+<?xml version='1.0' encoding='UTF-8'?><ResultsList path="ACW_WordSearch/ACW_WordSearch/WordSearch.cpp"><VersionInfos><StorageInfo ownerId="com.parasoft.xtest.checkers.api.execution" resultId="IExecutionViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.execution" resultId="InsureViolation" ver="3"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.scope" resultId="IScopeProjectInfo" ver="3"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IMetricsViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IDupCodeViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IMetricEstimationInfo" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IFlowAnalysisViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="ICodingStandardsViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.generation" resultId="IGenerationInfo" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.generation" resultId="IGenerationProjectInfo" ver="2"/></VersionInfos></ResultsList>
+--AcJ6Mm3GAXQslsn5hfpdnd6dCWfTYyx
+
+<?xml version='1.0' encoding='UTF-8'?><ResultInfo resultId="ICodingStandardsViolation" ownerId="com.parasoft.xtest.checkers.api.standards" violKeys="null"><StdViol msg="Getter/setter method 'GetGridSize' is not inlined" ln="22" sev="4" auth="objec" rule="OPT-23" tool="c++test" cat="OPT" lang="cpp" locType="sr" config="1" hash="1422017711" locStartln="22" locStartPos="16" locEndLn="22" locEndPos="17" locFile="ACW_WordSearch/ACW_WordSearch/WordSearch.cpp"/></ResultInfo>
+--AcJ6Mm3GAXQslsn5hfpdnd6dCWfTYyx--

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="WordSearch.cpp" />
+    <ClCompile Include="Node.cpp" />
+    <ClCompile Include="BinaryTree.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WordSearch.h" />
+    <ClInclude Include="Node.h" />
+    <ClInclude Include="BinaryTree.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{b16dbff6-61dc-4e7c-b8d2-84bdb7012996}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\Example puzzles\puzzle 1\dictionary.txt">
+      <Filter>Resources</Filter>
+    </Text>
+    <Text Include="..\..\Example puzzles\puzzle 1\result.txt">
+      <Filter>Resources</Filter>
+    </Text>
+    <Text Include="..\..\Example puzzles\puzzle 1\wordsearch_grid.txt">
+      <Filter>Resources</Filter>
+    </Text>
+    <Text Include="output_simple.txt" />
+  </ItemGroup>
+</Project>

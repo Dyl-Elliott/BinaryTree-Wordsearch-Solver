@@ -1,0 +1,170 @@
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'SetWord' is not inlined
+<l>22
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-24
+<b>Function 'SetWord' is not inlined
+<l>22
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'GetWord' returns handles to member data: 'm_word'
+<l>30
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetWord' is not inlined
+<l>28
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetLeft' is not inlined
+<l>35
+<k>19
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetRight' is not inlined
+<l>42
+<k>19
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'SetLeft' is not inlined
+<l>48
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'SetRight' is not inlined
+<l>54
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.h
+<c>CODSTA-CPP-81
+<b>Node: the percentage of getters and setters (100.00) is equal or higher than the threshold (100.00)
+<l>6
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'GetWord' returns handles to member data: 'm_word'
+<l>30
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetWord' is not inlined
+<l>28
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'SetWord' is not inlined
+<l>22
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-24
+<b>Function 'SetWord' is not inlined
+<l>22
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetLeft' is not inlined
+<l>35
+<k>19
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetRight' is not inlined
+<l>42
+<k>19
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'SetLeft' is not inlined
+<l>48
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'SetRight' is not inlined
+<l>54
+<k>12
+<s>false
+<N>
+<f>
+<L>0

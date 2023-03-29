@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><ResultsSession>
+   <SessionData configName="500083 rule set" enabledAnalysis="Static" enabledHandlers="com.parasoft.xtest.checkers.api.metrics.factory;com.parasoft.xtest.checkers.api.scope.factory;com.parasoft.xtest.checkers.api.standards.factory" hasViols="true" header="??:ACW_WordSearch:?? ??true??false??" runId="" startTime="1651672050789" tool="c++test">
+      <Authors>
+         <Author id="dev1" name="objec"/>
+      </Authors>
+      <Selection>
+         <Res id="ACW_WordSearch"/>
+      </Selection>
+      <XmlDataFiles file0="C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\.parasoft.dat\.solutions\ACW_WordSearch\session_results_report_xml\cs_violations.xml"/>
+   </SessionData>
+   <Locations>
+      <Loc fsPath="C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.cpp" loc="ACW_WordSearch/ACW_WordSearch/Node.cpp" projPath="ACW_WordSearch/ACW_WordSearch" project="ACW_WordSearch"/>
+      <Loc fsPath="C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp" loc="ACW_WordSearch/ACW_WordSearch/WordSearch.cpp" projPath="ACW_WordSearch/ACW_WordSearch" project="ACW_WordSearch"/>
+      <Loc fsPath="C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\Node.h" loc="ACW_WordSearch/ACW_WordSearch/Node.h" projPath="ACW_WordSearch/ACW_WordSearch" project="ACW_WordSearch"/>
+      <Loc fsPath="C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\BinaryTree.cpp" loc="ACW_WordSearch/ACW_WordSearch/BinaryTree.cpp" projPath="ACW_WordSearch/ACW_WordSearch" project="ACW_WordSearch"/>
+      <Loc fsPath="C:\Users\objec\OneDrive\Desktop\Uni\Advanced Programming\Git\Labs\Dylan Elliott Advanced Programming Final\500083_ACW_Template\ACW_WordSearch\WordSearch.h" loc="ACW_WordSearch/ACW_WordSearch/WordSearch.h" projPath="ACW_WordSearch/ACW_WordSearch" project="ACW_WordSearch"/>
+   </Locations>
+   <CodingStandards>
+      <HistoryData authTsks="12" authors="objec" cvdLn="1329" startTime="1651672050789" totLn="1329" totTsks="12"/>
+      <TestedFilesDetails>
+         <Total name="Suppressed / Total" supp="0" total="12">
+            <Project name="ACW_WordSearch" supp="0" total="12">
+               <Res loc="ACW_WordSearch/ACW_WordSearch/Node.cpp" locType="sr" name="Node.cpp" supp="0" total="8"/>
+               <Res loc="ACW_WordSearch/ACW_WordSearch/WordSearch.cpp" locType="sr" name="WordSearch.cpp" supp="0" total="1"/>
+               <Res loc="ACW_WordSearch/ACW_WordSearch/Node.h" locType="sr" name="Node.h" supp="0" total="1"/>
+               <Res loc="ACW_WordSearch/ACW_WordSearch/BinaryTree.cpp" locType="sr" name="BinaryTree.cpp" supp="0" total="1"/>
+               <Res name="BinaryTree.h" supp="0" total="0"/>
+               <Res name="Main.cpp" supp="0" total="0"/>
+               <Res loc="ACW_WordSearch/ACW_WordSearch/WordSearch.h" locType="sr" name="WordSearch.h" supp="0" total="1"/>
+            </Project>
+         </Total>
+      </TestedFilesDetails>
+   </CodingStandards>
+   <MetricsNormal/>
+   <MetricsDetailed/>
+</ResultsSession>
